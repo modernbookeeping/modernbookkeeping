@@ -1,2 +1,2 @@
 # modernbookkeeping
-Website is currently under cosntruction!
+Website is currently under construction
